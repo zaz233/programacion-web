@@ -1,0 +1,26 @@
+.logo{
+    width: 50px;
+}
+.enlaces_header{
+    font-size: larger;
+}
+.separacion{
+    margin: 50px;
+}
+.borde{
+    border: 2px #C2DAFF solid;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 100px;
+}
+.color{
+    color: #0066ff;
+    size: 2px;
+}
+.form-control:disabled{
+    background-color: rgb(249, 253, 255);
+    
+}
+textarea{
+    resize: none;
+}
